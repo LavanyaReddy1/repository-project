@@ -1,7 +1,0 @@
-user - lavanya
-password - jsdcn
-<<<<<<< HEAD
-designation- (software engineer)
-=======
-Job= Tech Mahindra(Just joined)
->>>>>>> 9b8ccbb8e4d9d58b72769eb67a2abfcdaa2245c4
